@@ -296,7 +296,7 @@ sections:
       together
     media:
       type: ImageBlock
-      url: /images/Image-on-the-left.svg
+      url: /images/desmond-eagle.jpg
       altText: Hero section image
     styles:
       self:
